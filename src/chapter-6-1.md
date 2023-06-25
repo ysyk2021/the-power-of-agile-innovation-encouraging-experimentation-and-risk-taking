@@ -1,5 +1,4 @@
-Chapter 6: Measuring Success in Agile Innovation: Key Performance Indicators (KPIs) for Measuring Success
-=========================================================================================================
+# Key Performance Indicators (KPIs) for Measuring Success
 
 Measuring success is crucial for organizations looking to evaluate the effectiveness of their agile innovation initiatives. By tracking key performance indicators (KPIs), organizations can determine the impact of agile innovation on their business and make informed decisions about future initiatives.
 

@@ -1,5 +1,4 @@
-Chapter 5: Enhancing Collaboration and Communication: Cross-functional Teams
-============================================================================
+# Cross-functional Teams
 
 Cross-functional teams are a critical component of agile innovation. They bring together individuals with diverse skills and knowledge to collaborate on projects and achieve shared objectives. In this chapter, we will discuss the benefits of cross-functional teams and strategies for building effective cross-functional teams.
 

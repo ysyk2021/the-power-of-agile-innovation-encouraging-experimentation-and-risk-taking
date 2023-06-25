@@ -1,5 +1,4 @@
-Chapter 7: Overcoming Obstacles to Agile Innovation: Strategies for Overcoming Challenges
-=========================================================================================
+# Strategies for Overcoming Challenges
 
 While agile innovation offers many benefits, it is not without its challenges. Organizations must overcome obstacles such as resistance to change and limited resources to successfully implement agile innovation strategies. This chapter will explore some strategies for overcoming these challenges.
 

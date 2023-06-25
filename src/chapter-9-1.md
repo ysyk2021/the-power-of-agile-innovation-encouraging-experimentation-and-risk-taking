@@ -1,5 +1,4 @@
-Chapter 9: Integrating Agile Innovation with Organizational Strategy: Aligning Agile Innovation with Business Goals
-===================================================================================================================
+# Aligning Agile Innovation with Business Goals
 
 Agile innovation can be a powerful tool for organizations to stay competitive and adapt to changing market conditions. However, it is important to integrate agile innovation with organizational strategy to ensure that it aligns with business goals. In this chapter, we will discuss the importance of aligning agile innovation with business goals and techniques for doing so.
 

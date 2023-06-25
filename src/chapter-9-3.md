@@ -1,5 +1,4 @@
-Chapter 9: Integrating Agile Innovation with Organizational Strategy: Developing an Agile Mindset as a Leader
-=============================================================================================================
+# Developing an Agile Mindset as a Leader
 
 To truly reap the benefits of agile innovation, it must be integrated with an organization's overall strategy. This involves developing an agile mindset as a leader and aligning agile innovation initiatives with the organization's vision, mission, and goals.
 

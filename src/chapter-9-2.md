@@ -1,5 +1,4 @@
-Chapter 9: Integrating Agile Innovation with Organizational Strategy: Scaling Agile Innovation across the Organization
-======================================================================================================================
+# Scaling Agile Innovation across the Organization
 
 Scaling agile innovation across an organization is essential for driving business success. To do so, organizations must integrate agile innovation with their overall strategy and encourage adoption of agile methodology throughout the organization. This chapter will explore strategies for scaling agile innovation effectively.
 

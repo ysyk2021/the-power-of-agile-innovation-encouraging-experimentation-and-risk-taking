@@ -1,5 +1,4 @@
-Chapter 5: Enhancing Collaboration and Communication: Effective Feedback and Reporting
-======================================================================================
+# Effective Feedback and Reporting
 
 Effective collaboration and communication are critical components of agile innovation. Teams must work together seamlessly, sharing information and feedback to drive the innovation process forward. This chapter will explore strategies for enhancing collaboration and communication through effective feedback and reporting.
 

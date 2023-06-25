@@ -1,5 +1,4 @@
-Chapter 4: Implementing Agile Methodologies: Kanban Framework
-=============================================================
+# Kanban Framework
 
 The Kanban framework is a popular approach to implementing agile methodologies in organizations. It emphasizes visualizing work, limiting work in progress, and continuous delivery to improve efficiency and reduce waste. In this chapter, we will discuss the Kanban framework and its benefits for organizations.
 

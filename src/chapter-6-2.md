@@ -1,5 +1,4 @@
-Chapter 6: Measuring Success in Agile Innovation: Qualitative and Quantitative Methods for Evaluation
-=====================================================================================================
+# Qualitative and Quantitative Methods for Evaluation
 
 Measuring success is essential for organizations looking to evaluate the effectiveness of their agile innovation initiatives. While tracking key performance indicators (KPIs) can provide valuable insights, using both qualitative and quantitative methods for evaluation can provide a more comprehensive understanding of the impact of agile innovation on an organization.
 

@@ -1,5 +1,4 @@
-Chapter 2: Understanding Agile Innovation: Common Myths about Agile Innovation
-==============================================================================
+# Common Myths about Agile Innovation
 
 Agile innovation is a methodology that emphasizes collaboration, iterative development, and continuous improvement to create innovative products or services. However, there are several common myths about agile innovation that can prevent organizations from fully embracing this methodology. In this chapter, we will discuss some of these common myths and provide clarification.
 

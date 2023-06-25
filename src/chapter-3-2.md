@@ -1,5 +1,4 @@
-Chapter 3: Creating an Agile Culture: Encouraging Experimentation
-=================================================================
+# Encouraging Experimentation
 
 Creating an agile culture is essential for organizations looking to foster innovation and remain competitive in today's rapidly changing market. One critical aspect of an agile culture is encouraging experimentation. In this chapter, we will discuss the benefits of experimentation, strategies for encouraging experimentation, and challenges to overcome.
 
