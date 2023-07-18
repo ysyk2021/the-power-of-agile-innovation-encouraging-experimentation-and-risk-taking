@@ -8,5 +8,4 @@ From fostering a culture of experimentation to developing an agile mindset and u
 
 In conclusion, The Power of Agile Innovation is a must-read for anyone who wants to stay ahead of the curve and achieve breakthrough success in today's fast-paced and ever-changing business environment. Whether you are an entrepreneur, a manager, or a team leader, this book will provide you with the guidance and inspiration to encourage experimentation and risk-taking for maximum results.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
