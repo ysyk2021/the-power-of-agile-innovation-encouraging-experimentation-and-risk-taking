@@ -1,4 +1,4 @@
-Chapter: Developing an Agile Mindset as a Leader
+Developing an Agile Mindset as a Leader
 ================================================
 
 In the field of emotion-focused therapy, developing an agile mindset is crucial for effective leadership in guiding clients through the process of processing and regulating their emotions. This chapter explores the importance of developing an agile mindset as a leader and provides practical strategies for cultivating agility in leadership within the context of emotion-focused therapy.

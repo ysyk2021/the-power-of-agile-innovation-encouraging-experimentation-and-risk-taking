@@ -1,4 +1,4 @@
-Chapter: Encouraging Experimentation
+Encouraging Experimentation
 ====================================
 
 In this chapter, we will explore the importance of encouraging experimentation in the context of emotion-focused therapy techniques for processing and regulating emotions. Experimentation is a fundamental aspect of therapy that allows clients to explore new ways of understanding and experiencing their emotions. By encouraging experimentation, therapists can empower clients to challenge existing patterns, develop new coping strategies, and ultimately achieve emotional growth. This chapter aims to shed light on the significance of experimentation in emotion-focused therapy and provide practical guidance on fostering a culture of experimentation within therapeutic settings.

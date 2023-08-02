@@ -1,4 +1,4 @@
-Chapter: Common Obstacles to Agile Innovation
+Common Obstacles to Agile Innovation
 =============================================
 
 In this chapter, we will explore the common obstacles that therapists may encounter when implementing agile innovation in emotion-focused therapy techniques for processing and regulating emotions. While agile approaches offer numerous benefits, it is essential to recognize and address these obstacles to ensure a successful transition to agile practices. Understanding and effectively navigating these challenges will enable therapists to harness the full potential of agile innovation.

@@ -1,4 +1,4 @@
-Chapter: Scrum Framework
+Scrum Framework
 ========================
 
 In this chapter, we will explore the application of the Scrum framework in the context of emotion-focused therapy techniques for processing and regulating emotions. By adopting Scrum principles and practices, therapists and practitioners can enhance their effectiveness, improve collaboration, and achieve better outcomes for their clients. This chapter will provide an overview of the Scrum framework and discuss its potential benefits in the context of emotion-focused therapy.

@@ -1,4 +1,4 @@
-Chapter: Co-location and Remote Work
+Co-location and Remote Work
 ====================================
 
 In this chapter, we will explore the implications and considerations of co-location and remote work in the context of emotion-focused therapy techniques for processing and regulating emotions. As technology continues to evolve, therapists have the option to work either in a traditional co-located setting or remotely. This chapter examines the benefits, challenges, and strategies associated with each approach, aiming to provide therapists with insights into making informed decisions regarding their work environment.

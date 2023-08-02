@@ -1,4 +1,4 @@
-Chapter: Effective Feedback and Reporting
+Effective Feedback and Reporting
 =========================================
 
 In this chapter, we will explore the importance of effective feedback and reporting in the context of emotion-focused therapy techniques for processing and regulating emotions. Providing and receiving feedback is a crucial element of therapeutic growth and progress. This chapter will discuss strategies for delivering feedback, establishing effective reporting mechanisms, and utilizing feedback to enhance therapeutic outcomes.

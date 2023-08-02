@@ -1,4 +1,4 @@
-Chapter: Qualitative and Quantitative Methods for Evaluation
+Qualitative and Quantitative Methods for Evaluation
 ============================================================
 
 In this chapter, we will explore the importance of using qualitative and quantitative methods for evaluating the effectiveness of emotion-focused therapy techniques for processing and regulating emotions. By employing both qualitative and quantitative approaches, we can gain a comprehensive understanding of the impact of these techniques on individuals' emotional well-being. This chapter will discuss various evaluation methods that can provide valuable insights into the effectiveness and outcomes of emotion-focused therapy.

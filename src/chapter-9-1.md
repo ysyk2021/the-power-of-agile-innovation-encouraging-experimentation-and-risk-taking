@@ -1,4 +1,4 @@
-Chapter: Aligning Agile Innovation with Business Goals
+Aligning Agile Innovation with Business Goals
 ======================================================
 
 Introduction

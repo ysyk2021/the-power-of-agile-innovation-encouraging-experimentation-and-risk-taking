@@ -1,4 +1,4 @@
-Chapter 1: Overview of the Book
+Overview of the Book
 ===============================
 
 Introduction

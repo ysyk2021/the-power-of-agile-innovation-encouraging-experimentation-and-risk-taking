@@ -1,4 +1,4 @@
-Chapter: Cross-Functional Teams
+Cross-Functional Teams
 ===============================
 
 In this chapter, we will explore the concept of cross-functional teams and their relevance in the context of emotion-focused therapy. Emotion-focused therapy involves collaborative efforts among various professionals to ensure comprehensive care for clients. By embracing a cross-functional team approach, therapists can leverage diverse expertise, enhance interdisciplinary collaboration, and ultimately provide more effective interventions. This chapter aims to shed light on the importance of cross-functional teams in emotion-focused therapy and offer practical guidance on establishing and fostering successful teams.

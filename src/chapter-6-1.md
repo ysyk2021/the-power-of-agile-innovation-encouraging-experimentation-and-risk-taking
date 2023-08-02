@@ -1,4 +1,4 @@
-Chapter: Key Performance Indicators (KPIs) for Measuring Success
+Key Performance Indicators (KPIs) for Measuring Success
 ================================================================
 
 In this chapter, we will discuss the importance of Key Performance Indicators (KPIs) in measuring the success of emotion-focused therapy techniques for processing and regulating emotions. KPIs provide therapists and practitioners with quantifiable metrics to assess the effectiveness of their therapy interventions and track progress towards therapy goals. This chapter will explore various KPIs that can be used to evaluate the outcomes and impact of emotion-focused therapy techniques.

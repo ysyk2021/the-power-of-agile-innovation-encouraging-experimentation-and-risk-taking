@@ -1,4 +1,4 @@
-Chapter: Definition of Agile Innovation
+Definition of Agile Innovation
 =======================================
 
 In this chapter, we will explore the concept of agile innovation and its relevance to emotion-focused therapy techniques for processing and regulating emotions. We will define agile innovation, discuss its key principles, and highlight its benefits in improving therapy practices. By embracing agile innovation, therapists can adapt their approaches, respond to client needs, and enhance the overall effectiveness of emotion-focused therapy.

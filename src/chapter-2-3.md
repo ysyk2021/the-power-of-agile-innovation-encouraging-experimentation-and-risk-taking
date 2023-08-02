@@ -1,4 +1,4 @@
-Chapter: Common Myths About Agile Innovation
+Common Myths About Agile Innovation
 ============================================
 
 In this chapter, we will address common myths and misconceptions surrounding agile innovation in the context of emotion-focused therapy techniques for processing and regulating emotions. By debunking these myths, we aim to provide a clear understanding of agile innovation and its applicability in therapy practices. Understanding the truth about agile innovation will help therapists make informed decisions and effectively integrate agile principles into their therapeutic approaches.
