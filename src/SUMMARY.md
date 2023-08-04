@@ -2,7 +2,6 @@
 
 - [Chapter 1: Introduction](README.md)
   - [Importance of Agile Innovation](chapter-1-1.md)
-  - [Overview of the Book](chapter-1-2.md)
 - [Chapter 2: Understanding Agile Innovation](chapter-2.md)
   - [Definition of Agile Innovation](chapter-2-1.md)
   - [Benefits of Agile Innovation](chapter-2-2.md)
