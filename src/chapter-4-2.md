@@ -3,9 +3,6 @@ Kanban Framework
 
 In this chapter, we will explore the application of the Kanban framework in the context of emotion-focused therapy techniques for processing and regulating emotions. The Kanban framework, initially developed by Toyota, provides a visual system for managing workflow and improving productivity. We will discuss how therapists can leverage this framework to streamline their therapy practices, enhance communication, and optimize client outcomes.
 
-**Introduction**
-----------------
-
 The Kanban framework is a lean method that enables teams to visualize their work, limit work in progress (WIP), and optimize flow. By adopting this approach, therapists can effectively manage therapy sessions, track progress, and ensure that clients receive the appropriate attention and support throughout their therapeutic journey.
 
 **Key Principles of the Kanban Framework**
