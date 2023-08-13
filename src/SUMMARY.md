@@ -25,7 +25,6 @@
   - [Common Obstacles to Agile Innovation](chapter-7-1.md)
   - [Strategies for Overcoming Challenges](chapter-7-2.md)
 - [Chapter 8: Case Studies of Successful Agile Innovation](chapter-8.md)
-  - [Real-life Examples of Companies that have Successfully Implemented Agile Innovation Strategies](chapter-8-1.md)
 - [Chapter 9: Integrating Agile Innovation with Organizational Strategy](chapter-9.md)
   - [Aligning Agile Innovation with Business Goals](chapter-9-1.md)
   - [Scaling Agile Innovation across the Organization](chapter-9-2.md)
