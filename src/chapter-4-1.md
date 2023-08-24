@@ -1,5 +1,3 @@
-Scrum Framework
-========================
 
 Agile innovation relies on effective frameworks and methodologies to drive collaboration, flexibility, and iterative development. One such popular framework is Scrum. This chapter explores the Scrum framework, its principles, roles, ceremonies, and artifacts, highlighting its power in encouraging experimentation and risk-taking.
 

@@ -1,5 +1,3 @@
-Cross-Functional Teams
-===============================
 
 Cross-functional teams play a pivotal role in agile innovation. By bringing together individuals with diverse skills and perspectives, these teams are well-equipped to tackle complex problems, drive innovation, and deliver value to customers. In this chapter, we will explore the concept of cross-functional teams in agile innovation and discuss their benefits and strategies for effective implementation.
 

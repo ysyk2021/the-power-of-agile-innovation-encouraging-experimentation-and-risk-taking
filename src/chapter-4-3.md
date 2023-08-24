@@ -1,5 +1,3 @@
-Lean Startup Methodology
-=================================
 
 The Lean Startup methodology is a popular approach to innovation that emphasizes rapid iteration, experimentation, and customer feedback. It provides a framework for startups and established companies alike to build and launch products or services in a more efficient and effective manner. This chapter explores the key principles and practices of the Lean Startup methodology and discusses its application in agile innovation.
 

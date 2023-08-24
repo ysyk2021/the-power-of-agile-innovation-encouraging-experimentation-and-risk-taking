@@ -1,5 +1,3 @@
-Chapter 6: Measuring Success in Agile Innovation
-================================================
 
 Measuring success is essential for organizations looking to evaluate the effectiveness of their agile innovation initiatives. By tracking key performance indicators (KPIs) and using qualitative and quantitative methods for evaluation, organizations can determine the impact of agile innovation on their business and make informed decisions about future initiatives.
 

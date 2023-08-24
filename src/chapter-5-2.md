@@ -1,5 +1,3 @@
-Co-location and Remote Work
-====================================
 
 In today's digital age, the way we work has evolved, allowing teams to collaborate across geographical boundaries. Co-location, where team members work in close physical proximity, and remote work, where individuals contribute from different locations, both have their advantages and challenges when it comes to agile innovation. In this chapter, we will explore the impact of co-location and remote work on agile innovation and discuss strategies for effectively managing these approaches.
 

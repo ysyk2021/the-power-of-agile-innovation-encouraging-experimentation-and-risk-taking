@@ -1,5 +1,3 @@
-Key Performance Indicators (KPIs) for Measuring Success
-================================================================
 
 In the world of agile innovation, measuring success goes beyond traditional metrics like budgets and deadlines. It requires a shift towards outcome-based measurements that reflect the core values of experimentation, risk-taking, and value creation. This chapter explores the concept of Key Performance Indicators (KPIs) in agile innovation and provides insights into selecting and using KPIs to effectively measure success.
 

@@ -1,5 +1,3 @@
-Chapter 2: Understanding Agile Innovation
-=========================================
 
 Agile innovation is a methodology that emphasizes collaboration, iterative development, and continuous improvement to create innovative products or services. In this chapter, we will discuss the definition of agile innovation, its benefits, and common myths about it.
 

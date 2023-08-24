@@ -1,5 +1,3 @@
-Chapter 9: Integrating Agile Innovation with Organizational Strategy
-====================================================================
 
 Agile innovation has become an essential component of organizational success in today's rapidly changing market. However, integrating agile innovation with organizational strategy can be challenging. In this chapter, we will discuss strategies for aligning agile innovation with business goals, scaling agile innovation across the organization, and developing an agile mindset as a leader.
 
@@ -28,5 +26,4 @@ Conclusion
 ----------
 
 Integrating agile innovation with organizational strategy is essential for achieving business goals and staying competitive in today's rapidly changing market. By aligning agile innovation with business goals, scaling agile innovation across the organization, and developing an agile mindset as a leader, organizations can create a culture of innovation that drives business success. Remember to stay committed to the journey of innovation and seek support when needed. With dedication and effort, agile innovation can be integrated into organizational strategy and drive business success.
-
 

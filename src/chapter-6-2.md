@@ -1,5 +1,3 @@
-Qualitative and Quantitative Methods for Evaluation
-============================================================
 
 In the world of agile innovation, evaluation plays a crucial role in ensuring the success of projects and driving continuous improvement. As organizations embrace experimentation and risk-taking, it becomes essential to have effective methods for evaluating the outcomes and impact of these initiatives. This chapter explores the qualitative and quantitative methods commonly used for evaluation in the context of agile innovation.
 

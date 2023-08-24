@@ -1,5 +1,3 @@
-Developing an Agile Mindset as a Leader
-================================================
 
 In the fast-paced world of agile innovation, leaders play a crucial role in driving success and fostering a culture of adaptability. To effectively lead agile teams and organizations, it is essential for leaders to develop an agile mindset. In this chapter, we will explore the concept of developing an agile mindset as a leader and discuss strategies for cultivating this mindset.
 

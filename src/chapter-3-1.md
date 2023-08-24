@@ -1,4 +1,3 @@
-# Establishing a Growth Mindset
 
 Creating an agile culture is essential for organizations looking to foster innovation and remain competitive in today's rapidly changing market. One critical aspect of an agile culture is establishing a growth mindset. In this chapter, we will discuss the benefits of a growth mindset, strategies for establishing a growth mindset, and challenges to overcome.
 

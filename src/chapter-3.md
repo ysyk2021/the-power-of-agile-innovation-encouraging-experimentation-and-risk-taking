@@ -1,5 +1,3 @@
-Chapter 3: Creating an Agile Culture
-====================================
 
 Creating an agile culture is essential for organizations looking to foster innovation and remain competitive in today's rapidly changing market. In this chapter, we will discuss three critical aspects of creating an agile culture: establishing a growth mindset, encouraging experimentation, and embracing failure as a learning opportunity.
 

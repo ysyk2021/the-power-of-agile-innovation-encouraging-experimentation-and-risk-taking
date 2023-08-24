@@ -1,5 +1,3 @@
-Common Myths About Agile Innovation
-============================================
 
 In this chapter, we will explore and debunk some common myths surrounding agile innovation. These misconceptions often hinder organizations from fully embracing the benefits of agile innovation. By dispelling these myths, we can better understand the true nature and value of agile innovation.
 

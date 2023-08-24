@@ -1,5 +1,3 @@
-Kanban Framework
-=========================
 
 The Kanban framework is a visual system for managing and optimizing workflow in agile teams. It provides a clear and transparent view of work items, promotes collaboration, and enables teams to deliver value continuously. This chapter explores the key principles and practices of the Kanban framework and discusses its application in agile innovation.
 

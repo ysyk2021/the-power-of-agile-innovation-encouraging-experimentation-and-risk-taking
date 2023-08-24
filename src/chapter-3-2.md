@@ -1,5 +1,3 @@
-Encouraging Experimentation
-====================================
 
 Experimentation is a key component of agile innovation. It allows organizations to test assumptions, explore new ideas, and drive continuous improvement. In this chapter, we will delve into the concept of encouraging experimentation in agile practices and discuss strategies for creating a culture that embraces and supports it.
 

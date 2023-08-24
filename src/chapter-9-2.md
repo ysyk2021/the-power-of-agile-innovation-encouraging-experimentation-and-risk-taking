@@ -1,5 +1,3 @@
-Scaling Agile Innovation Across the Organization
-=========================================================
 
 In today's rapidly changing business environment, organizations are increasingly recognizing the need to embrace agile innovation as a means to drive growth and stay competitive. However, implementing agile practices and fostering an innovative culture at scale across the entire organization can present unique challenges. This chapter explores strategies for scaling agile innovation across various departments, teams, and levels within the organization.
 
